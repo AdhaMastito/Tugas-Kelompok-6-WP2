@@ -1,2 +1,2 @@
 # Tugas-Kelompok-6-WP2
-Membuat web-site dengan menggunakan CI_Controller
+Membuat website dengan menggunakan CI_Controller
